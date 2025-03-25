@@ -1,0 +1,26 @@
+{
+  "name": "ahs-paper",
+  "version": "1.0.0",
+  "description": "```bash\r git clone https://github.com/Shrinivassab/AHS-Paper.git\r cd AHS-Paper\r npm install typescript xgboost @types/node",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^22.13.13",
+    "@types/timsort": "^0.3.3",
+    "timsort": "^0.3.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "@types/mocha": "^10.0.10",
+    "jest": "^29.7.0",
+    "mocha": "^11.1.0",
+    "ts-jest": "^29.3.0"
+  }
+}

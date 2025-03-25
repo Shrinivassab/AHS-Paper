@@ -1,0 +1,30 @@
+[
+  {
+    "Dataset": "Tiny",
+    "Size": "100",
+    "AHS (ms)": "0.13",
+    "Timsort (ms)": "0.40",
+    "Speedup (%)": "199.5"
+  },
+  {
+    "Dataset": "Small",
+    "Size": "1,000",
+    "AHS (ms)": "0.31",
+    "Timsort (ms)": "1.07",
+    "Speedup (%)": "249.1"
+  },
+  {
+    "Dataset": "Medium",
+    "Size": "100,000",
+    "AHS (ms)": "19.06",
+    "Timsort (ms)": "31.69",
+    "Speedup (%)": "66.3"
+  },
+  {
+    "Dataset": "Large",
+    "Size": "1,000,000",
+    "AHS (ms)": "248.48",
+    "Timsort (ms)": "340.46",
+    "Speedup (%)": "37.0"
+  }
+]

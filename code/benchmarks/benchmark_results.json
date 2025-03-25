@@ -1,0 +1,42 @@
+[
+  {
+    "Dataset": "Tiny",
+    "Size": "100",
+    "AHS Time (ms)": "0.03",
+    "Timsort Time (ms)": "0.13",
+    "Speedup (%)": "291.0",
+    "AHS Mem (MB)": "0.02",
+    "Timsort Mem (MB)": "0.00",
+    "Mem Reduction (%)": "-81.8"
+  },
+  {
+    "Dataset": "Small",
+    "Size": "1,000",
+    "AHS Time (ms)": "0.29",
+    "Timsort Time (ms)": "0.49",
+    "Speedup (%)": "68.9",
+    "AHS Mem (MB)": "0.26",
+    "Timsort Mem (MB)": "0.02",
+    "Mem Reduction (%)": "-92.4"
+  },
+  {
+    "Dataset": "Medium",
+    "Size": "100,000",
+    "AHS Time (ms)": "81.73",
+    "Timsort Time (ms)": "27.60",
+    "Speedup (%)": "-66.2",
+    "AHS Mem (MB)": "-1.66",
+    "Timsort Mem (MB)": "2.79",
+    "Mem Reduction (%)": "-268.2"
+  },
+  {
+    "Dataset": "Large",
+    "Size": "1,000,000",
+    "AHS Time (ms)": "364.65",
+    "Timsort Time (ms)": "331.48",
+    "Speedup (%)": "-9.1",
+    "AHS Mem (MB)": "86.81",
+    "Timsort Mem (MB)": "5.67",
+    "Mem Reduction (%)": "-93.5"
+  }
+]
